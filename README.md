@@ -9,7 +9,7 @@ To see more about the project and its results, follow this repository to further
 
 ##### Requirements:
 - Python 3.6+
-- R 4.0
+- R 4.0.4
 - ffmpeg & imagemagick
 - ImageJ
 - moviepy==1.0.2 (or greater)
