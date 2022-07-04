@@ -10,7 +10,8 @@ To see more about the project and its results, follow this repository to further
 - Digital processing
 - Tagging visual features
 - Exploratory data analysis
-- Requirements:
+
+**Requirements**
 - Python 3.6+
 - Anaconda - Jupyter notebook
 - ffmpeg & imagemagick
