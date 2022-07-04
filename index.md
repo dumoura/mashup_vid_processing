@@ -2,6 +2,8 @@
 
 The present repository refers to a project and collaboration to design and compare different procedures and methodologies for scraping, processing and analyzing media data (i.e., video mashups and video remix)
 
+<img src="https://drive.google.com/file/d/1WUDTDHo6ceOMJKPvSL9xOGjGIrIJ7Bet/view?usp=sharing" />
+
 To see more about the project and its results, follow this repository to further updates.
 
 **Overview & Setup** 
